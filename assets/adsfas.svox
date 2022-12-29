@@ -1,6 +1,6 @@
 model
 name = adsfas
-revision = 8403
+revision = 8405
 size = 20 40 20
 origin = -y
 shell = Outline 0.25
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-20(380-420B)
+14(380-420B)380-299B-120B380-259B-160B380-259B-39B-59B-60B380-239B-79B-100B380-259B-39B-19B-100B380-41B-20B2-16B-3B-20B-21B-20B2-20B-3B-18B-11B-2B-3B-40B-20B-B2-11B-25B-3B-12B-66B-20B
